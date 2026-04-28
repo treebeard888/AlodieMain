@@ -73,7 +73,7 @@
   <!-- === Header === -->
   <header>
     <h1>Alodie's Homepage</h1>
-    <p>Artists statement </p>
+    <p>Artists statement goes here</p>
   </header>
 
   <!-- === Navigation === -->
@@ -86,13 +86,13 @@
   <!-- === Hero Section === -->
   <section class="hero">
     <h2>What I do</h2>
-    <p>I believe that all students should have access to and believe in the beauty of maths. I aim to help them realise that.</p>
+    <p>_____</p>
   </section>
 
   <!-- === About Section === -->
   <section id="about" class="about">
-    <h3 class="section-title">About Us</h3>
-    <p>I am a semi-professional game developer capable of programming in five different languages. I am also currently taking 3 maths A-levels and finding them incredibly easy. I'm currently training to become a chef, so I can start a full scale business. I can also knit and crochet expertly.</p>
+    <h3 class="section-title">About Me</h3>
+    <p>_____</p>
   </section>
 
   <!-- === Services Section === -->
@@ -100,11 +100,8 @@
     <h3 class="section-title">Our Services</h3>
     <p>Feel free to contact me about any of the below!</p>
     <ul>
-      <li>Tutoring - I offer primarily maths tutoring, but can also offer physics or my seperate 'uni skills' course for those wanting to gain some life skills ready for uni.</li>
-      <li>Programming - I offer my skills in using C#, Java, html or python for whatever project you require.</li>
-      <li>Wool Crafts - I offer custom made woollen garments or plush toys, along with a range of pre-made toys here:</li>
-      <a href="https://treebeard888.github.io/Treebarn-store/"; style="font-size:300%;">Store!</a>
-      <li>Chef-ing - I am happy to cater for any event, just contact me below!</li>
+      <li>A list of what you do</li>
+      <a href="https://treebeard888.github.io/AlodieStore/"; style="font-size:300%;">Store!</a>
     </ul>
   </section>
 
@@ -113,7 +110,6 @@
 <!-- Contact Me Section -->
 <section id="contact">
   <h2>Contact Me</h2>
-  <p>Please beware, I am based around Liskeard, Cornwall so any tutoring more than a 20 minuite drive away will have to be done online, and shipping costs of certain items may vary.</p>
   <form action="mailto:treebeard277@gmail.com" method="POST" enctype="text/plain">
     <label for="name">Name:</label><br />
     <input type="text" id="name" name="name" required /><br /><br />
