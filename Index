@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Treebarn Homepage</title>
+  <title>Alodie's Homepage</title>
   <style>
     /* === Reset & Base Styles === */
     * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -72,11 +72,8 @@
 
   <!-- === Header === -->
   <header>
-    <h1>Treebarn Home</h1>
-    <p>Geography is just physics slowed down with a few trees stuck on it.</p>
-    <p>-Terry Prattchet</p>
-    <p>Currently running a start-up promotion:</p>
-    <p>any order over £10 receives a free stuffed animal</p>
+    <h1>Alodie's Homepage</h1>
+    <p>Artists statement </p>
   </header>
 
   <!-- === Navigation === -->
